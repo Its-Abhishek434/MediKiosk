@@ -1,0 +1,21 @@
+test,aliases,unit,low,high,hard_low,hard_high
+Hemoglobin,hb|hgb|haemoglobin|hemoglobin,g/dL,12.0,17.5,3.0,25.0
+Fasting Blood Sugar,fbs|fasting blood sugar|fasting glucose|glucose fasting,mg/dL,70,100,20,600
+Postprandial Blood Sugar,ppbs|post prandial|pp blood sugar|pp glucose,mg/dL,70,140,20,700
+Random Blood Sugar,rbs|random blood sugar|random glucose,mg/dL,70,140,20,700
+HbA1c,hba1c|glycated hemoglobin|a1c,%,4.0,5.6,3.0,20.0
+Serum Creatinine,creatinine|serum creatinine|s creatinine|creat,mg/dL,0.6,1.2,0.1,20.0
+Blood Urea,urea|blood urea|bun,mg/dL,15,45,2,300
+Total Leucocyte Count,tlc|wbc|total count|white blood cell|leucocytes,/cumm,4000,11000,500,100000
+Platelet Count,platelets|platelet count|plt,lakh/cumm,1.5,4.5,0.1,15.0
+Total Cholesterol,total cholesterol|cholesterol,mg/dL,125,200,50,600
+Triglycerides,triglycerides|tg,mg/dL,50,150,20,1500
+HDL Cholesterol,hdl|hdl cholesterol,mg/dL,40,60,10,120
+LDL Cholesterol,ldl|ldl cholesterol,mg/dL,50,100,10,400
+Serum Bilirubin,bilirubin|total bilirubin|t bilirubin,mg/dL,0.2,1.2,0.05,40.0
+SGPT,sgpt|alt|alanine aminotransferase,U/L,7,56,1,2000
+SGOT,sgot|ast|aspartate aminotransferase,U/L,10,40,1,2000
+Serum IgE,ige|serum ige|total ige|immunoglobulin e,IU/mL,0,100,0,50000
+Absolute Eosinophil Count,aec|absolute eosinophil count|eosinophils count,/cumm,40,440,0,10000
+TSH,tsh|thyroid stimulating hormone,uIU/mL,0.4,4.5,0.01,100.0
+Serum Uric Acid,uric acid|serum uric acid,mg/dL,3.5,7.2,1.0,25.0

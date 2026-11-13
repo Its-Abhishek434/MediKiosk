@@ -1,0 +1,15 @@
+{
+  "include": [
+    ".",
+    "services/edge-api",
+    "services/safety-engine",
+    "tests"
+  ],
+  "extraPaths": [
+    "services/edge-api",
+    "services/safety-engine",
+    "backend"
+  ],
+  "venvPath": ".",
+  "venv": ".venv"
+}
